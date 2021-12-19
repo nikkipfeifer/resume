@@ -1,0 +1,53 @@
+h1 {
+  padding-left: 10px;
+  font-family: Helvetica;
+  font-size: 25px
+}
+
+h4 {
+  padding-left: 10px;
+  font-family: Helvetica;
+}
+
+a {
+  padding-left: 10px;
+  font-family: Helvetica;
+}
+
+h2 {
+  margin-left: 10px;
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+p {
+  padding-left: 10px;
+  font-family: Helvetica;
+}
+
+li {
+  font-size: 13px; 
+  font-family: Helvetica;
+}
+
+h3 {
+  padding-left: 10px;
+  font-family: Helvetica;  
+ }
+
+ul {
+  padding-bottom: 30px;
+}
+
+.footer {
+  padding-bottom: 100px;
+}
+
+img {
+  width: 350px;
+}
+
+a {
+  font-size: 15px;
+  color: blue;
+}
